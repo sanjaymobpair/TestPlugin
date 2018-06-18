@@ -1,0 +1,27 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.mp.fcmtest"
+    },
+    "com.track.app": {
+      "FIREBASE_MESSAGING_VERSION": "17.0.0",
+      "ANDROID_SUPPORT_VERSION": "27.+",
+      "PACKAGE_NAME": "com.mp.fcmtest"
+    }
+  },
+  "dependent_plugins": {
+    "cordova-support-android-plugin": {
+      "PACKAGE_NAME": "com.mp.fcmtest"
+    },
+    "cordova-support-google-services": {
+      "PACKAGE_NAME": "com.mp.fcmtest"
+    }
+  }
+}

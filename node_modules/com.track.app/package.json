@@ -1,0 +1,50 @@
+{
+  "_from": "git+https://github.com/sanjaymobpair/NewTrackPlugin.git",
+  "_id": "com.track.app@1.0.0",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/com.track.app",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "https://github.com/sanjaymobpair/NewTrackPlugin.git",
+    "rawSpec": "https://github.com/sanjaymobpair/NewTrackPlugin.git",
+    "saveSpec": "git+https://github.com/sanjaymobpair/NewTrackPlugin.git",
+    "fetchSpec": "https://github.com/sanjaymobpair/NewTrackPlugin.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "git+https://github.com/sanjaymobpair/NewTrackPlugin.git#fdfa4641f13fa3bb96614ad7f83264434306f1f4",
+  "_spec": "https://github.com/sanjaymobpair/NewTrackPlugin.git",
+  "_where": "/Users/sanjaychaudhary/Desktop/Sanjay/Cordova/NewFcmTest",
+  "author": {
+    "name": "sanjay"
+  },
+  "bugs": {
+    "url": "https://github.com/sanjaymobpair/NewTest/issues"
+  },
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "com.track.app",
+    "platforms": [
+      "android"
+    ]
+  },
+  "deprecated": false,
+  "description": "tets",
+  "homepage": "https://github.com/sanjaymobpair/NewTest#readme",
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "license": "ISC",
+  "name": "com.track.app",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanjaymobpair/NewTest.git"
+  },
+  "version": "1.0.0"
+}
